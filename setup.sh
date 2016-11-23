@@ -12,3 +12,6 @@ export TIBCO_EP_HOME=/opt/tibco/users/ephome
 export PATH=$TIBCO_EP_HOME/distrib/tibco/bin:/Users/vynguye/repo/ktools/projtools/tools/scripts:$PATH
 
 
+# custom scripts
+export PATH=/Users/vynguye/scripts:$PATH
+

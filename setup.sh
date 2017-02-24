@@ -8,8 +8,8 @@ export PATH=$JAVA_HOME/bin:$M2_HOME/bin:$PATH
 # tibco sb
 export TIBCO_EP_HOME=/opt/tibco/users/ephome
 
-# dtm tools
-export PATH=$TIBCO_EP_HOME/distrib/tibco/bin:/Users/vynguye/repo/ktools/projtools/tools/scripts:$PATH
+# dtm tools /ephome/distrib/tibco/devbin/epadmin
+export PATH=$TIBCO_EP_HOME/distrib/tibco/bin:$TIBCO_EP_HOME/distrib/tibco/devbin:/Users/vynguye/repo/ktools/projtools/tools/scripts:$PATH
 
 
 # custom scripts

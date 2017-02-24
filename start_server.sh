@@ -1,4 +1,4 @@
 #!/bin/sh
 
-epadmin install node nodename=A.vynguye
-epadmin servicename=A.vynguye start node
+epadmin install node nodename=A.ephome
+epadmin servicename=A.ephome start node

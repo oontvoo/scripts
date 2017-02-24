@@ -1,4 +1,4 @@
 #!/bin/sh
 
-epadmin servicename=A.vynguye stop node
-rm -rf A.vynguye
+epadmin servicename=A.ephome stop node
+rm -rf A.ephome

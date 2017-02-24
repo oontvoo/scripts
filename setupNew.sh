@@ -9,7 +9,7 @@ export PATH=$JAVA_HOME/bin:$M2_HOME/bin:$PATH
 export TIBCO_EP_HOME=`pwd`
 
 # dtm tools
-export PATH=$TIBCO_EP_HOME/distrib/tibco/bin:/Users/vynguye/repo/ktools/projtools/tools/scripts:$PATH
+export PATH=$TIBCO_EP_HOME/distrib/tibco/bin:$PATH
 
 
 # custom scripts

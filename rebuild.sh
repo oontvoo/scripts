@@ -7,7 +7,7 @@ cd ..
 rm -rf ${TIBCO_EP_HOME}/distrib
 rm -rf ${TIBCO_EP_HOME}/3rdparty
 rm -rf ${TIBCO_EP_HOME}/dependency-maven-plugin-markers
-for codeline in parent ktools epmaven dtm dtmfilestore sbrt rms dtmchannel dtmbusinessstatemachine dtmexamples
+for codeline in parent epmaven dtm dtmfilestore sbrt rms dtmchannel dtmbusinessstatemachine dtmexamples
 do
     cd ${codeline}
     git pull
